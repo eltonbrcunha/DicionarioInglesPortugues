@@ -20,7 +20,7 @@ e retonar em tela para o usuário.
 Dentro da pasta raiz há um arquivo em XML para ser recriado o banco de dados, bem como o teste.
 
 <h2>Sobre a Tecnologia usada</h2>
-- Linguagem: ASP.NET Core </br>
+- Plataforma: ASP.NET Core </br>
 - Banco de Dados: MongoBD </br>
 
 <h2>Conceitos Usados</h2>
